@@ -36,3 +36,7 @@ Finally, a bounding box is drawn around the found contour. if there are multiple
 |  ![](./data/4.jpg) | ![](./data/4_1.png)     |  ![](./data/4_2.png)    | ![](./data/4_3.png)    | ![](./data/4_4.png) |
 
 This is the first phase of my final project of Deep Learning course taught by Dr.Mohammadi at IUST.
+
+## Ref
+
+[Grad-CAM class activation visualization](https://keras.io/examples/vision/grad_cam/)
