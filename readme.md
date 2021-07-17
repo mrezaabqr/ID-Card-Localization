@@ -35,4 +35,4 @@ Finally, a bounding box is drawn around the found contour. if there are multiple
 |  ![](./data/3_1.jpg) | ![](./data/3_3.png)     |  ![](./data/3_2.png)    | ![](./data/3_3.png)    | ![](./data/3_5.png)  ![](./data/3_4.png)  |
 |  ![](./data/4.jpg) | ![](./data/4_1.png)     |  ![](./data/4_2.png)    | ![](./data/4_3.png)    | ![](./data/4_4.png) |
 
-This is my final project of Deep Learning course taught by Dr.Mohammadi at IUST.
+This is the first phase of my final project of Deep Learning course taught by Dr.Mohammadi at IUST.
