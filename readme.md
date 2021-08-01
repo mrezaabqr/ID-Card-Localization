@@ -1,4 +1,4 @@
-# Object Identification and Localization Using Grad-CAM
+# Object Localization Using Grad-CAM
 
 ## Introduction
 What makes the network think the image should belong to a specific class? 
